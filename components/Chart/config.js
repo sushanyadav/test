@@ -11,7 +11,7 @@ export const chartOption = {
   layout: {
     backgroundColor: 'transparent',
     textColor: '#787F83',
-    fontFamily: 'GT America, sans-serif',
+    fontFamily: 'Danila, sans-serif',
     fontSize: 14,
   },
   grid: {
